@@ -1,0 +1,18 @@
+{
+  "stage": "defense",
+  "train_size": 8000,
+  "test_size": 2000,
+  "poison_rate_limit": 0.05,
+  "poison_budget": 400,
+  "n_modified": 400,
+  "actual_poison_rate": 0.05,
+  "acc_clean": 0.9405,
+  "acc_attack": 0.929,
+  "untargeted_asr": 0.012227538543327969,
+  "attack_success": false,
+  "delta": 0.05,
+  "acc_defense": 0.9475,
+  "defense_augmented_samples": 16000,
+  "recovery_rate": 1.0,
+  "effective_asr": 0.0
+}
