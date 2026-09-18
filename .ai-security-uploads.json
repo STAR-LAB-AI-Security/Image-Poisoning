@@ -1,0 +1,23 @@
+{
+  "workDirId": "mu6r19p0wlwdv7",
+  "scenario": "mnist_poison",
+  "role": "solo_defense",
+  "version": 1,
+  "uploadedAt": "2026-09-18T09:21:45.688Z",
+  "files": [
+    "README.md",
+    "attack-backend.py",
+    "attack-blank.py",
+    "attack.py",
+    "dataset.py",
+    "defense-backend.py",
+    "defense-blank.py",
+    "defense.py",
+    "requirements.txt",
+    "run_attack.sh",
+    "run_defense.sh",
+    "test.py",
+    "mnist-poison-def.zip",
+    "meta.json"
+  ]
+}
