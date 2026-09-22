@@ -1,0 +1,18 @@
+{
+  "workDirId": "mubz2dzfczihl1",
+  "branch": "def-xfy",
+  "uploaderBranch": true,
+  "githubAccount": "gascylinder666",
+  "displayName": "夏方源",
+  "scenario": "mnist_poison",
+  "role": "solo_defense",
+  "userId": "16b14104-58f2-4b9d-940f-932cf400d3e7",
+  "version": 2,
+  "originalZipName": "defense.py",
+  "archivedZip": false,
+  "uploadedAt": "2026-09-22T01:05:08.062Z",
+  "files": [
+    "defense.py"
+  ],
+  "skippedLargeFiles": []
+}
