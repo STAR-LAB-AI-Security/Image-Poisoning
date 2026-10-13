@@ -1,0 +1,18 @@
+{
+  "workDirId": "mv6p2xp97mxdgj",
+  "branch": "def-bit",
+  "uploaderBranch": true,
+  "githubAccount": "gu0ng",
+  "displayName": "dz",
+  "scenario": "mnist_poison",
+  "role": "solo_defense",
+  "userId": "e6785d89-55a8-43de-9ca9-bfb4b1a86e8a",
+  "version": 2,
+  "originalZipName": "defense.py",
+  "archivedZip": false,
+  "uploadedAt": "2026-10-13T13:06:29.293Z",
+  "files": [
+    "defense.py"
+  ],
+  "skippedLargeFiles": []
+}
