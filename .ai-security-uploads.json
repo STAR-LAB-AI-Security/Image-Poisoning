@@ -1,0 +1,11 @@
+{
+  "workDirId": "mv6oti3pw3dtlj",
+  "scenario": "mnist_poison",
+  "role": "solo_defense",
+  "version": 1,
+  "uploadedAt": "2026-10-13T12:59:14.232Z",
+  "files": [
+    "defense.py",
+    "meta.json"
+  ]
+}
