@@ -1,0 +1,21 @@
+{
+  "workDirId": "mv6p0pdhg0qywg",
+  "branch": "atk-ZYB",
+  "uploaderBranch": true,
+  "githubAccount": "muyaobuji",
+  "displayName": "周怡博",
+  "scenario": "mnist_poison",
+  "role": "solo_attack",
+  "userId": "7694199c-a52f-4dbc-8d06-c2007b2aafbe",
+  "version": 1,
+  "originalZipName": "mnist_poison_attack.zip",
+  "archivedZip": true,
+  "uploadedAt": "2026-10-13T13:04:53.863Z",
+  "files": [
+    "attack-blank.py",
+    "defense-blank.py",
+    "requirements.txt",
+    "mnist_poison_attack.zip"
+  ],
+  "skippedLargeFiles": []
+}
