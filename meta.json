@@ -1,0 +1,18 @@
+{
+  "workDirId": "mv95gy5oa72iie",
+  "branch": "def-wacl123",
+  "uploaderBranch": true,
+  "githubAccount": "waaccll1123-sudo",
+  "displayName": "陈朗",
+  "scenario": "mnist_poison",
+  "role": "solo_defense",
+  "userId": "5ea9ed2c-f70a-4f6c-afb4-84b94103f329",
+  "version": 1,
+  "originalZipName": "defense.py",
+  "archivedZip": false,
+  "uploadedAt": "2026-10-15T06:20:51.254Z",
+  "files": [
+    "defense.py"
+  ],
+  "skippedLargeFiles": []
+}
